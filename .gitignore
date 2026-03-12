@@ -1,0 +1,33 @@
+# Zig build output
+zig-out/
+.zig-cache/
+
+# Build artifacts (when not using zig-out)
+*.o
+*.obj
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local / env (optional)
+.env
+.env.local
+*.local
+*.xlsx
+*.csv

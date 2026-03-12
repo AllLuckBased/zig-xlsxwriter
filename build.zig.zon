@@ -1,0 +1,15 @@
+.{
+    .name = .xlsxio,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.16.0-dev.2623+27eec9bd6",
+    .fingerprint = 0x402b2efea545c445,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "vendor",
+        "LICENSE",
+        "README.md",
+    },
+}
